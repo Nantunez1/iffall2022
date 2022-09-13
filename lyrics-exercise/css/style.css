@@ -1,0 +1,42 @@
+body{
+    
+    
+    background-image:
+     url('https://wallpaperaccess.com/full/934502.png');
+    background-color: peachpuff;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin-left:1in;
+    height: 100%;
+    background-size:cover;
+    
+    
+  
+   
+    
+} 
+
+p{
+
+    text-align:center;
+  
+    color: black;
+    font-family: pelago,sans-serif;
+    font-weight: 800;
+    font-style: normal;
+   
+    
+  
+   
+  
+}   
+
+h1,h2{
+    text-align:center;
+    color: rosybrown;
+    font-family: fairwater-deco-serif,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+ 
+}
