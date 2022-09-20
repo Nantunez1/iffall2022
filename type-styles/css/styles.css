@@ -1,0 +1,30 @@
+html{
+    background-color: olive;
+    margin-left:200px;
+    margin-right:200px;
+    
+    
+}
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
+    font-size:24pt;
+    
+}
+section {
+    display:block;
+   
+}
+h1{
+    font-size:40pt;
+    color: lightgoldenrodyellow;
+}
+h2{
+    font-size: 25pt;
+    color: lightgoldenrodyellow;
+}
+h3 {
+    font-size: 15pt;
+    font-weight:500;
+    color: darkKhaki;
+}
