@@ -1,0 +1,15 @@
+
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    min-width: 5in;
+    max-width: 7in;
+   
+}
+
+li {
+    line-height: 20px;
+
+}
+h3 {
+    line-height: 30px;
+}
