@@ -1,0 +1,110 @@
+html {
+    font-family: 'Archivo Narrow', sans-serif;
+    line-height: 1.4;
+}
+.panel {
+    background-color:rgba(0, 255, 0, 0.2);
+}
+
+.content-area {
+width: 960px;
+margin-left:auto;
+margin-right:auto;
+padding:20px 0;
+color:white;
+}
+
+#intro .content-area {
+    text-align: center;
+    padding-bottom:17px;
+   
+}
+
+#description {
+    background-color: darkblue; 
+    padding-bottom:33px;
+}
+#description p {
+    font-size:18px;
+    padding: 12.75px 0px 2px 0;
+    margin-bottom: -1em;
+    
+}
+.float-img {
+    float:right;
+    padding:32px 0 0 0;
+    margin:0 0 40px 40px;
+  
+}
+header {
+    background-image: url(https://wallpapercave.com/wp/wp2682251.png);
+    background-position: center -300px;
+    overflow: auto;
+}
+h1 {
+    font-size: 80px;
+    margin: 0;
+    margin-top:130px;
+}
+h2 {
+    font-size:30px;
+    margin: 0;
+   line-height:1;
+   margin-bottom: 170px;
+}
+h3 {
+    text-align: center;
+    font-size: 40px;
+    margin:0;
+    margin-top:20px;
+
+}
+h4{
+    font-size: 15pt;
+    margin: 2px 0 0 12px;
+}
+ul.main_grid {
+    padding: 0 0 0 300px;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin:32px 410px 0 110px;
+ 
+}
+.main_grid li {
+    display:flex;
+    width:50%;
+    padding:0 0 0 0 ;
+    margin:0 0 24px 0;
+   
+}
+.main_grid p {
+    font-size:13.5pt;
+    margin: 0px 30px 0px 10px;
+}
+#grid {
+  background-color: white;
+    padding-bottom: 25px;
+    
+}
+#conclusion {
+    text-align: center;
+    font-size: 20pt;
+    padding:0px 520px 20px 520px;
+    background-color: #9FA8DA;
+Margin:auto;
+   
+}
+#conclusion p {
+    margin-top:10px;
+    
+}
+#footer p {
+    margin-top:90px;
+    margin-right:30px;
+    color:black;
+    font-size:13pt;
+}
+#footer {
+    background-color:#E0E0E0;
+}
