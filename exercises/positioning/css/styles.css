@@ -14,10 +14,11 @@
     background-color:red;
     position:absolute;
     top:0;
+    right:0;
 }
 .absolute-example {
     position:relative;
-    right:0;
+    
 }
 
 .fixed-example .positioned-element {
