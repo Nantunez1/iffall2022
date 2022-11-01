@@ -1,0 +1,412 @@
+html {
+    font-family: felt-tip-woman,sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+a#btn_cartoon {
+    display: inline-block;
+    position: relative;
+    margin:auto;
+    margin-top: 100px;
+    color: black;
+    background-color: #ffffff;
+    font-family: "ubuntu", sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding-top: 10px;
+   height:120px;
+width:260px;
+   
+  
+    
+}
+a#btn_cartoon:hover {
+color:white;
+background-color: black;
+font-size:40px;
+
+}
+
+a#btn_coca {
+    display: inline-block;
+    position: relative;
+    margin:auto;
+    margin-top: 50px;
+    color: black;
+    background-color: #ffffff;
+    font-family: "ubuntu", sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    transition: all 0.3s;
+    width: 120px;
+    height: 80px;
+    padding-top:40px;
+    border-radius: 60px;
+    
+}
+a#btn_coca:hover {
+color:white;
+background-color:red
+}
+
+a#btn_garden {
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: black;
+    background-color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+    
+}
+a#btn_garden:hover {
+color:green;
+background-color:yellowgreen
+}
+
+a#btn_instagram {
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: black;
+    background-color: #ffffff;
+    font-family: "ubuntu", arial;
+    font-size: 30px;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+    border-radius:60px;
+    
+}
+a#btn_instagram:hover {
+color:white;
+background: linear-gradient( to right, purple 0%, magenta 40%, red 80%, yellow 100% )
+}
+
+a#btn_apple {
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: black;
+    background-color: #ffffff;
+    font-family: "ubuntu", arial;
+    font-size: 30px;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+    border-radius:60px;
+    
+}
+a#btn_apple:hover {
+color:white;
+background: linear-gradient( to right, red 0%, orange 20%, yellow 40%, green 60%, blue 80%, purple 100% )
+}
+
+a#btn_exploding {
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 70px;
+    color: black;
+    background-color: #ffffff;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    transition: all 0.2s;
+    padding: 10px 20px;
+    
+}
+a#btn_exploding:hover {
+color:red;
+font-size: 40px;
+text-shadow: 0px 0px 11px rgba(255, 68, 0, 1);
+
+}
+
+a#btn_moo {
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+    color: green;
+    background-color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    transition: all 0.2s;
+    padding: 10px 20px;
+    border-radius:60px;
+}
+a#btn_moo:hover {
+font-size: 35px;
+}
+
+a#btn_lyft {
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+    color: magenta;
+    background-color: #ffffff;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    transition: all 0.2s;
+    padding: 10px 20px;
+    border-radius:60px;
+}
+a#btn_lyft:hover {
+color:white;
+background-color: magenta;
+}
+
+a#btn_samsung{
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: black;
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 10px;
+    border-radius: 60px;  
+    width: 120px;
+    
+    
+}
+a#btn_samsung:hover {
+color: white;
+background-color: blue;
+}
+
+a#btn_ibm{
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: black;
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+    border-radius: 60px;  
+    width: 50px;
+    height: 70px;
+    
+}
+a#btn_ibm:hover {
+color: white;
+background-color: black;
+}
+
+a#btn_nike{
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: black;
+    border: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+}
+a#btn_nike:hover {
+color: white;
+background-color: black;
+}
+
+a#btn_oldnavy{
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: navy;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+    
+}
+a#btn_oldnavy:hover {
+color: white;
+background-color: navy;
+
+}
+
+a#btn_newyorker{
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: black;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+    
+}
+a#btn_newyorker:hover {
+color: grey;
+text-decoration: underline;
+}
+
+a#btn_army{
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: red;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+    text-decoration: none;
+    transition: all 0.5s;
+    padding: 10px 20px;
+    
+}
+a#btn_army:hover {
+color:darkred;
+text-decoration: underline;
+}
+
+a#btn_colorrun{
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: magenta;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font:bold;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+}
+a#btn_colorrun:hover {
+
+text-shadow: -23px -23px 0px rgba(0, 233, 245, 0.59);
+}
+
+a#btn_fitbit {
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: navy;
+    background-color: white;
+    font-family: Verdana, sans-serif;
+    font-size: 25px;
+    font:bold;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+    
+}
+a#btn_fitbit:hover{
+color: teal;
+border: 2px solid black;
+}
+
+a#btn_harley {
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: black;
+    background-color: orange;
+    font-family: Verdana, sans-serif;
+    font-size: 25px;
+    font:bold;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+    
+}
+a#btn_harley:hover {
+   color:white;
+   background-color: black;
+   -webkit-box-shadow: 0px 10px 9px 0px rgba(238, 95, 50, 0.75);
+-moz-box-shadow:    0px 10px 9px 0px rgba(238, 95, 50, 0.75);
+box-shadow:         0px 10px 9px 0px rgba(238, 95, 50, 0.75);
+}
+
+a#btn_electra {
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: skyblue;
+    background-color: #ffffff;
+    font-family: cursive, sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+}
+a#btn_electra:hover {
+    text-shadow: 24px 24px 0px rgba(0, 107, 150, 0.59);
+}
+
+a#btn_nerf {
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+    color: #fe5000;
+    background-color: #ffffff;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    transition: all 0.2s;
+    padding: 10px 20px;
+    
+}
+a#btn_nerf:hover {
+color:white;
+background-color:#fe5000;;
+}
+
+a#btn_omori {
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    margin-top: 90px;
+    color: black;
+    background-color: #ffffff;
+    font-family: "felt-tip-woman", sans-serif;
+    font-size: 40px;
+    text-decoration: none;
+    transition: all 0.3s;
+    padding: 10px 20px;
+    
+}
+a#btn_omori:hover {
+color:white;
+background-color: black;
+}
+
